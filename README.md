@@ -1,10 +1,7 @@
-**IMPORTANT PLEASE READ CAREFULLY:**
-**(UNRESTRICTED SOFTWARE)** 
-##  LinkOS_SDK license ENDUSER [LICENSE AGREEMENT](http://link-os.github.io/Zebra_SDK_EULA.pdf)
-<br/>
-<br/>
+# Zebra-Printer-Samples-master
+###### __IMPORTANT:__ BEFORE USING PLEASE READ CAREFULLY THE ENDUSER [LICENSE_ AGREEMENT](http://link-os.github.io/Zebra_SDK_EULA.pdf)
+<br />
 
-# Zebra-Printer-Samples
 Contains Zebra printer related samples, demos, etc.
 
 Zebra printers of ZQ300 & ZQ500 series mobile printers, ZD400 & ZD600 series desktop printers, and ZT600 series industrial printers have both Bluetooth Classic and Low Energy (LE) capabilities. 
